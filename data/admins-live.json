@@ -1,0 +1,31 @@
+[
+  {
+    "id": "ciyacademy_gmail_com",
+    "email": "ciyacademy@gmail.com",
+    "name": "Super Administrator",
+    "role": "super_admin",
+    "addedBy": "Root",
+    "addedAt": "2026-01-01T00:00:00.000Z",
+    "isImmutable": true
+  },
+  {
+    "id": "afeta_mailto_plus",
+    "email": "afeta@mailto.plus",
+    "name": "Sales Rep Sarah Bright",
+    "role": "sales_rep",
+    "addedBy": "ciyacademy@gmail.com",
+    "addedAt": "2026-09-09T17:21:46.029Z",
+    "updatedAt": "2026-09-09T17:21:46.029Z",
+    "isImmutable": false
+  },
+  {
+    "id": "kfytv_mailto_plus",
+    "email": "kfytv@mailto.plus",
+    "name": "Supervisor Samson John",
+    "role": "sales_rep",
+    "addedBy": "comwebdot@gmail.com",
+    "addedAt": "2026-09-09T18:00:38.640Z",
+    "updatedAt": "2026-09-09T18:00:38.640Z",
+    "isImmutable": false
+  }
+]
